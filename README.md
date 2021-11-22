@@ -1,4 +1,4 @@
-# Neural Networks and Deep Learning by DeepLearning.ai(Coursera)
+# Neural Networks and Logistic Regression Implementation and Comparison
 
 ## 1 - Logistics Regression
 Training Logistic Regression Model to detect whether the image has cat or not with acccuracy around 70%
